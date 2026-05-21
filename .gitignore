@@ -1,0 +1,12 @@
+.factory/
+.opendroid/
+.git/
+.temp/
+_tmp*
+*.exe
+*.asar
+*.woff2
+*.mp4
+*.ttf
+*.woff
+node_modules/
